@@ -1,0 +1,11 @@
+postgres://
+
+wpimcselyfefyb   #usuario
+:
+33afb6d8d2ee2148ce3c9843ac23ec0a4b718d391321e006b400f64ee87d06f7    #senha
+@
+ec2-3-216-113-109.compute-1.amazonaws.com  #Host
+:
+5432  #porta
+/
+d90l9mss1i09ln #nome da base de dados - host adress

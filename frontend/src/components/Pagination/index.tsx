@@ -1,4 +1,3 @@
-import exp from "constants";
 import {ReactComponent as Arrow} from "assets/img/arrow.svg"
 import './styles.css'
 
